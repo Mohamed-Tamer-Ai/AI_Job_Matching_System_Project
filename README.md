@@ -106,10 +106,6 @@ This project is currently documentation- and design-oriented. To explore the rep
 
 Contributions are welcome. If you want to improve the system design, add implementation work, or expand the project documentation, please open an issue or submit a pull request.
 
-## License
-
-This project does not currently include a license file. If you plan to reuse or distribute the project, it is recommended to add an appropriate open-source license.
-
 ## Notes
 
 This repository is best suited for academic, educational, or prototype-level systems analysis and design work. It provides a solid foundation for turning the documented concept into a working application in a later phase.
